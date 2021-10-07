@@ -34,13 +34,12 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 ![twitter walkthrough gif](https://user-images.githubusercontent.com/81383919/136302183-3081024e-21c9-4b42-9e0c-f76f10f305cc.gif)
- ' title='Kevins Feed' width='' alt='Kevins Feed' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I first ran into an issue last Thursday that I wasn't able to revolve until Monday as when I posted a question on the codepath discussion board, an internal server error popped up that prevented me from posting the question from Thursday through the first part of the weekend, leaving me stuck not being able to proceed with the assignment.  I emailed my professors and TAs but did not get a response until Tuesday.  This situation caused me to not be able to turn the assignment in on time.
 
 ## Open-source libraries used
 
