@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![twitter walkthrough gif](https://user-images.githubusercontent.com/81383919/136302183-3081024e-21c9-4b42-9e0c-f76f10f305cc.gif)
+![twitter walkthrough gif](https://user-images.githubusercontent.com/81383919/136302183-3081024e-21c9-4b42-9e0c-f76f10f305cc.gif)
  ' title='Kevins Feed' width='' alt='Kevins Feed' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
