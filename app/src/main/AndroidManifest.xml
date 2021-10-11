@@ -14,8 +14,10 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".TimeFormatterActivity"
+            android:name=".ComposeActivity"
             android:exported="true" />
+         android:exported="true" />
+
         <activity
             android:name=".TimelineActivity"
             android:exported="true" />
